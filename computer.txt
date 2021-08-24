@@ -1,0 +1,70 @@
+CPU SOCKET
+=======
+
+
+
+
+
+CPU FAN AND HEATSINK MOUNTING POINT:
+========
+
+
+
+20-PIN ATX POWER CONNECTOR
+=========
+
+
+
+DRAM SLOTS(*2)
+=====
+
+
+
+
+IDE CONNECTOR (*2)
+======
+
+
+
+
+NORTHBRIDGE()WITH HEAT SINK)
+======
+
+
+
+
+
+AGP SLOTS
+=======
+
+
+
+
+
+SOUTH BRIDGE
+=====
+
+
+
+
+PCI SLOTS
+=======
+
+
+
+
+CMOS BACKUP BATTERY
+========
+
+
+
+
+
+
+
+CONECTOR FOR INTEGRATED PERIPHERALS
+========
+
+
+
+

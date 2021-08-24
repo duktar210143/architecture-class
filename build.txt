@@ -1,0 +1,104 @@
+1.storage
+====
+hard disk
+-contains moving parts that are more fragile
+-they are low priced then ssd 
+-your pc will not power on as fast as ssd
+ 
+
+ssd(Solid State Drive)
+-ssd are quite expensive
+-uses flash storage that has no movimg parts
+ notes(using both is a popular opinion
+ssd for faster boot and hhd for storing documents and other datas)
+
+shop list (hard sisk from seagate and western digital)
+           (ssd from samsung ,toshiba,OCZ,kinston,intel)
+---ensure your hard disk is al least 7,200 revolutions per minute(RPM)
+ Serial ATA(SATA) connection cable of speeds of 6 GB per sec.
+SSD you are looking for should be liated with multi level cell(MLC)flsh memory
+
+
+2.central processing unti
+========
+cpu is most commonly known as cpu, process 
+hundreds and thousands of program each minute.
+
+-if budget is high go for cpu from intel brand
+-if budget is minimum go for a amd processor which is slihtly less efficent then intels core
+ -sometimes the desciption clock speed is better performance is wrong
+-take a look at the recent builds
+ ==shop(while shopping for a processor you 'll see  something called L3cache l3 catch mid tier is 4MB 
+mid tier and gigher ends model have 6-8 ,B of cache)
+(Go for the newest model  faster cores translate to more money more heat and electricity)
+
+
+3.MOTHER BOARD
+========
+Every component is connected to a motherboard which then sends and recives data from and
+to the user.
+-insure your processor is compatible to motherboard
+- Mini ITX, Micro ATX, ATX, and Extended ATX. Each size offers different features, for example a larger Extended ATX motherboard will have more sockets and ports than a smaller Mini ITX motherboard.
+
+
+4.RAM(RANDOM ACCESS MOMORY)
+======
+-RAM, is quickly accessed by computers to perform task while 
+running a program
+-memory slots are available in mother board for directly plugging RAM
+-three different sppeds :1330MHZ,1600MHZ,2400MHZ
+-manufacturers (Corsair,Mushkin,Kingston)
+
+5.POWER SUPPLY
+========
+-The power supply transforms the electricity 
+from your wall socket to give life to your 
+system and all the componemts inside of it.
+-at least silver efficency rating by "80PLUS"
+-Some popular power supply brands include Seasonic, XFX, Antec, OCZ, Corsair, and Enermax.
+ 
+
+6.OPTICAL DRIVES
+
+7.WIRELESS CARD
+-For Internet access, you will need to plug an Ethernet cable directly into your computer, attach a wireless card to the motherboard, or use a wireless USB dongle.
+
+
+8.case
+-consider the size of your motherboard. 
+your case has to be compatible with the mother board you decide to buy.
+
+
+9.fans
+-at leats two front facing fan and for the processor
+
+
+10.OPERATING SYSTEM:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

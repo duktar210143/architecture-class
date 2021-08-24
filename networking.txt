@@ -1,0 +1,14 @@
+mac address always remains sames IP address changes as we change
+our service . IP v4 = 32 bit which is 4 ocatte ipv4 can generate only 2 to the power
+32 unique ID can be generated. as IOT concept arrived
+ ipv4 address scarcity started and the concept of ipv6 arrived.
+ipv6 = 128 bit and this concept doesn't have the limit of IP address
+
+Modes of communication:
+SIMPLEX:one way communication. the data treansfer only goes non direction.
+
+HALFDUPLEX:the communication between sender and reciever communicate in both direction. But a data can be moved one at a time example a sender sends a data while the reciever has to wait and after the completion of data sending the reciever can no only send his data.
+
+FULLDUPLES:data can be transffered simultaniously. 
+
+ 
